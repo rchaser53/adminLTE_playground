@@ -1,0 +1,35 @@
+{
+  "name": "adminLTE_playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchaser53/adminLTE_playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchaser53/adminLTE_playground/issues"
+  },
+  "homepage": "https://github.com/rchaser53/adminLTE_playground#readme",
+  "dependencies": {
+    "css-loader": "^0.26.1",
+    "express": "^4.16.2",
+    "html-webpack-plugin": "^2.28.0",
+    "url-loader": "^0.5.7",
+    "vue-loader": "^10.3.0",
+    "vue-style-loader": "^2.0.0",
+    "vue-template-compiler": "^2.1.10",
+    "vue2-admin-lte": "^0.4.2",
+    "webpack": "^2.2.1",
+    "webpack-bundle-analyzer": "^2.2.1",
+    "webpack-dev-middleware": "^1.10.0",
+    "webpack-hot-middleware": "^2.16.1",
+    "webpack-merge": "^2.6.1"
+  }
+}
